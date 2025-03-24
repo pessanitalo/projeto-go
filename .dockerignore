@@ -1,0 +1,8 @@
+.github/
+postgres-data
+.gitignore
+docker-compose.yml
+Dockerfile
+main
+main_test.go
+Makefile
